@@ -3,7 +3,6 @@
 <h1 align="center">Hi, I'm Zeed Almelhem | Data Scientist | Machine Learning Enthusiast</h1>
 <h3 align="center">Turning data into insights. Open source contributor. "Data is the new oil." 📊💡</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://www.zeed-almelhem.com/" target="blank"><img src="https://static.wixstatic.com/media/4319d1_f868a1cf7c3449999ed576f8d9bf4e5f~mv2.png/v1/crop/x_0,y_21,w_2048,h_2528/fill/w_117,h_144,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/image_oval_2.png" alt="zeed-almelhem.com" /></a> </p>
 
