@@ -1,3 +1,4 @@
+![Alt text](https://i.makeagif.com/media/10-14-2020/JIIvbT.gif)
 <h3 align="center">Turning data into insights. Open source contributor. "Data is the new oil." 📊💡</h3>
 
 <p align="left"> <a href="https://twitter.com/zeed_almelhem" target="blank"><img src="https://img.shields.io/twitter/follow/zeed_almelhem?logo=twitter&style=for-the-badge" alt="zeed_almelhem" /></a> </p>
