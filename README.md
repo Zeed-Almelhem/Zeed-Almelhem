@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on [scikit-learn](https://github.com/Zeed-Almelhem/matplotlib)
+- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/zeed-almelhem/)
 
 - 👨‍💻 All of my projects are available at [https://www.zeed-almelhem.com/](https://www.zeed-almelhem.com/)
 
